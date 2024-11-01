@@ -6,11 +6,11 @@
 
 - 👨‍💻 All of my projects are available at [https://raashi11.github.io/Raashi-Sharma/](https://raashi11.github.io/Raashi-Sharma/)
 
-- 💬 Ask me about **Java, Python, Django, Flask, AWS**
+- 💬 Ask me about **Java, Spring boot, Python, Django, Fast API, Flask, AWS**
 
 - 📫 How to reach me **raashisharma111201@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NWbEWNtWMjMTyE1so-NtA8yN4PUk0KLk/view?usp=sharing](https://drive.google.com/file/d/1NWbEWNtWMjMTyE1so-NtA8yN4PUk0KLk/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NWbEWNtWMjMTyE1so-NtA8yN4PUk0KLk/view?usp=sharing](https://drive.google.com/file/d/11iZM3a0R9cpbpH3bNW5JJR8Hg9LJRiVu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raashi11&show_icons=true&locale=en" alt="raashi11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raashi11&" alt="raashi11" /></p>
 <!--
 **raashi11/raashi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
